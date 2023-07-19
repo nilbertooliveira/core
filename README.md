@@ -1,0 +1,2 @@
+# core
+PlayFast Core
